@@ -1,0 +1,67 @@
+body{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 2rem;
+
+
+}
+
+    
+
+#userName{
+    margin-top: 50px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgba(0, 0, 255, 0.594);
+    width: 200px;
+    height: 60px;
+    cursor: pointer;
+    
+
+
+}
+#userName:hover{
+    background-color: white;
+    
+}
+#password{
+    margin-top: 50px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgba(0, 0, 255, 0.594);
+    width: 200px;
+    height: 60px;
+    cursor: pointer;
+}
+#password:hover{
+    background-color: white;
+}
+#c-password{
+    margin-top: 50px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgba(0, 0, 255, 0.594);
+    width: 200px;
+    height: 60px;
+    cursor: pointer;
+
+}
+#c-password:hover{
+background-color: white;
+}
+#processForm{
+     margin-top: 50px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgba(0, 0, 255, 0.594);
+width: 200px;
+height: 60px;
+font-size: x-large;
+cursor: pointer;
+}
+#processForm:hover{
+    background-color: white;
+}
